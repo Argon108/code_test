@@ -1,0 +1,25 @@
+p {
+	color: green;
+	font-style: red;
+	font-size: 20px
+}
+
+body {
+background: #F2F2F2;
+max-width: 800px;
+margin: 10px auto;
+background: linear-gradient(to top left, #33CCFF 0%, #FF99CC 100%);
+padding: 30px;
+font-weight: 700; 
+color: black;
+}
+
+h1 {
+  color: #AAFF7F;
+  font-size: 70px;
+}
+
+h2 {
+	color: black;
+	font-size: 30px;
+}
