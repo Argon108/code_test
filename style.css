@@ -8,7 +8,7 @@ body {
 background: #F2F2F2;
 max-width: 800px;
 margin: 10px auto;
-background: linear-gradient(to top left, #33CCFF 0%, #FF99CC 100%);
+background: linear-gradient(45deg, deeppink, orange, lime);
 padding: 30px;
 font-weight: 900; 
 color: black;
@@ -22,6 +22,11 @@ h1 {
 h2 {
 	color: black;
 	font-size: 30px;
+}
+
+h3 {
+    color: blue;
+    font-size: 80px
 }
 
 li {
@@ -41,3 +46,4 @@ li {
     position: absolute;
     background: red;
 }
+
